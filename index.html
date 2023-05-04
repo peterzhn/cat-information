@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Cat Facts</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Cat Facts</h1>
+  <button id="cat-btn">Get a random cat fact</button>
+  <p id="cat-fact"></p>
+
+  <script type="text/javascript">
+    const button = document.querySelector('#cat-btn');
+    const catFact = document.querySelector('#cat-fact');
+
+    button.addEventListener('click', () => {
+      fetch('/cats')
+        .then(response => response.json())
+        .then(data => catFact.textContent = data.fact);
+    });
+  </script>
+</body>
+</html>

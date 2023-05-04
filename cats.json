@@ -1,0 +1,114 @@
+{
+    "cats": [
+      {
+        "name": "Siamese",
+        "scientific_name": "Felis catus",
+        "origin": "Thailand",
+        "coat": "Short",
+        "colors": ["Seal Point", "Blue Point", "Chocolate Point", "Lilac Point"],
+        "temperament": ["Affectionate", "Social", "Intelligent"],
+        "size": "Small to medium",
+        "lifespan": "8-12 years",
+        "description": "Siamese cats are known for their distinctive coloring and talkative personalities. They are intelligent and social cats that crave attention from their owners."
+      },
+      {
+        "name": "Persian",
+        "scientific_name": "Felis catus",
+        "origin": "Iran",
+        "coat": "Long",
+        "colors": ["Solid", "Silver", "Shaded", "Tabby"],
+        "temperament": ["Gentle", "Quiet", "Affectionate"],
+        "size": "Medium",
+        "lifespan": "10-15 years",
+        "description": "Persian cats are known for their long, fluffy coats and sweet personalities. They are gentle and affectionate cats that make great companions."
+      },
+      {
+        "name": "Bengal",
+        "scientific_name": "Felis catus",
+        "origin": "United States",
+        "coat": "Short",
+        "colors": ["Brown", "Silver", "Snow"],
+        "temperament": ["Active", "Playful", "Intelligent"],
+        "size": "Medium",
+        "lifespan": "12-16 years",
+        "description": "Bengal cats are known for their wild appearance and energetic personalities. They are intelligent and curious cats that love to play and explore."
+      },
+      {
+        "name": "Sphynx",
+        "scientific_name": "Felis catus",
+        "origin": "Canada",
+        "coat": "Hairless",
+        "colors": ["Various"],
+        "temperament": ["Lively", "Friendly", "Curious"],
+        "size": "Small to medium",
+        "lifespan": "8-14 years",
+        "description": "Sphynx cats are known for their unique hairless appearance and affectionate personalities. They are playful and social cats that enjoy spending time with their owners."
+      },
+      {
+        "name": "Maine Coon",
+        "scientific_name": "Felis catus",
+        "origin": "United States",
+        "coat": "Long",
+        "colors": ["Various"],
+        "temperament": ["Gentle", "Friendly", "Playful"],
+        "size": "Large",
+        "lifespan": "10-13 years",
+        "description": "Maine Coon cats are known for their long, fluffy coats and friendly personalities. They are gentle giants that make great family pets."
+      },
+      {
+        "name": "Scottish Fold",
+        "scientific_name": "Felis catus",
+        "origin": "Scotland",
+        "coat": "Short or long",
+        "colors": ["Various"],
+        "temperament": ["Laid-back", "Friendly", "Affectionate"],
+        "size": "Small to medium",
+        "lifespan": "11-14 years",
+        "description": "Scottish Fold cats are known for their distinctive folded ears and sweet personalities. They are easy-going and affectionate cats that get along well with people."
+      },
+      {
+        "name": "Russian Blue",
+        "scientific_name": "Felis catus",
+        "origin": "Russia",
+        "coat": "Short",
+        "colors": ["Blue"],
+        "temperament": ["Intelligent", "Reserved", "Loyal"],
+        "size": "Medium",
+        "lifespan": "10-16 years",
+        "description": "Russian Blue cats are known for their striking blue coats and reserved personalities. They are intelligent and loyal cats that form strong bonds with their owners."
+      },
+      {
+        "name": "Ragdoll",
+        "scientific_name": "Felis catus",
+        "origin": "United States",
+        "coat": "Long",
+        "colors": ["Various"],
+        "temperament": ["Gentle", "Relaxed", "Affectionate"],
+        "size": "Large",
+        "lifespan": "12-17 years",
+        "description": "Ragdoll cats are known for their floppy, relaxed demeanor and affectionate personalities. They are gentle giants that make great indoor companions."
+      },
+      {
+        "name": "British Shorthair",
+        "scientific_name": "Felis catus",
+        "origin": "United Kingdom",
+        "coat": "Short",
+        "colors": ["Various"],
+        "temperament": ["Placid", "Friendly", "Independent"],
+        "size": "Medium to large",
+        "lifespan": "12-17 years",
+        "description": "British Shorthair cats are known for their plush, round appearance and friendly personalities. They are independent cats that enjoy spending time with their owners."
+      },
+      {
+        "name": "American Shorthair",
+        "scientific_name": "Felis catus",
+        "origin": "United States",
+        "coat": "Short",
+        "colors": ["Various"],
+        "temperament": ["Friendly", "Adaptable", "Playful"],
+        "size": "Medium to large",
+        "lifespan": "15-20 years",
+        "description": "American Shorthair cats are known for their adaptability and playful personalities. They are friendly cats that get along well with children and other pets."
+      }
+    ]
+  }
