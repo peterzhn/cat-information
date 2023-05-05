@@ -10,15 +10,19 @@
   <button id="cat-btn">Get a random cat fact</button>
   <p id="cat-fact"></p>
 
-  <script type="text/javascript">
+  <script defer type="text/javascript">
     const button = document.querySelector('#cat-btn');
     const catFact = document.querySelector('#cat-fact');
 
-    button.addEventListener('click', () => {
-      fetch('/cats')
-        .then(response => response.json())
-        .then(data => catFact.textContent = data.fact);
-    });
+    
+    button.addEventListener("click", () => {
+				fetch("http://localhost:3000/cats")
+					.then((response) => response.json())
+					.then((data) => {
+            catFact.innerText = data.description;
+
+					});
+			});
   </script>
 </body>
 </html>
